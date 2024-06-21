@@ -2,3 +2,5 @@ How to verify the data distibution? - Fitter library in Python and  univariteML 
 In distribution file - group data yearwise then use ff
 
 Check for return and look for seasonality 
+
+- Create a function which chech seasonality
