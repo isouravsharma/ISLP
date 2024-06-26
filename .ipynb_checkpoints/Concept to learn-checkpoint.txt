@@ -1,0 +1,6 @@
+- Standard Error
+- Confidence Interval
+- Value of SE of slope and intercept
+- Do it for random generated data
+- Then complete same exercise for advertisement data 
+- Then 1 stock

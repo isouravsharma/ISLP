@@ -4,3 +4,7 @@ In distribution file - group data yearwise then use ff
 Check for return and look for seasonality 
 
 - Create a function which chech seasonality
+
+- save images and concatinate resukt into in image
+
+- Need to start a book reading Stat + Book = content.
