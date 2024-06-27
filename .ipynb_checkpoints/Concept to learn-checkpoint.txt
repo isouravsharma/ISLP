@@ -4,3 +4,5 @@
 - Do it for random generated data
 - Then complete same exercise for advertisement data 
 - Then 1 stock
+
+- Standarization how to do and then apply CLT Central Limit theoram and Standard Error and confidence interval concept. 
